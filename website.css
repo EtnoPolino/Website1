@@ -90,3 +90,25 @@ nav ul li a{
 .arrow-icons img{
     width: 40px;
 }
+
+.feature-img{
+    height: 90%;
+    position:absolute;
+    right: 160px;
+    bottom: 0;
+}
+
+.social-link{
+    transform: rotate(-90deg);
+    position: absolute;
+    left: -80px;
+    bottom : 160px;
+
+}
+
+.social-link a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 14px;
+    color: #6a7199;
+}
